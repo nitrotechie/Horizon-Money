@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "308192443336",
+    "project_id": "horizon-money",
+    "storage_bucket": "horizon-money.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308192443336:android:cd3ba7de273f4e77b0defd",
+        "android_client_info": {
+          "package_name": "com.horizon.money"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308192443336-cchr783bb9e9hatco4ajtgvg261qvb6h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.horizon.money",
+            "certificate_hash": "0dbf856c941cb99051a4a69087d57cb6ff68e560"
+          }
+        },
+        {
+          "client_id": "308192443336-h4o4jp9q9lb9g30bqi0bt4fl0u1ie2r3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBysmE4CjFt-7LeFn0gG_04Tdfoo5eGOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308192443336-h4o4jp9q9lb9g30bqi0bt4fl0u1ie2r3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

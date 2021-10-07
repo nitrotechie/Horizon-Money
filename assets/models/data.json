@@ -1,0 +1,381 @@
+{
+  "account": {
+    "linkedAccRef": "1f1e6f40-e9c9-4db7-9de0-1896f8e6cc30",
+    "maskedAccNumber": "XXXXXXX123",
+    "type": "deposit",
+    "version": "1.1",
+    "transactions": {
+      "endDate": "2021-06-17T14:25:33.440Z",
+      "startDate": "2021-01-11T11:39:57.153Z",
+      "transaction": [
+        {
+          "mode": "UPI",
+          "type": "DEBIT",
+          "txnId": "M3258741",
+          "amount": "1239",
+          "narration": "UPI/935314560764/getsimpl/simpl@axisbank/Axis Bank",
+          "reference": "RFN00013383",
+          "valueDate": "2021-04-01",
+          "currentBalance": "62289.25",
+          "transactionTimestamp": "2021-04-01T13:20:14+05:30"
+        },
+        {
+          "mode": "FT",
+          "type": "DEBIT",
+          "txnId": "M59555532",
+          "amount": "5000",
+          "narration": "BIL/BPAY/001962608700/MOTILAL OS/MODIRECT-B02925 ",
+          "reference": "RFN02134809",
+          "valueDate": "2021-04-07",
+          "currentBalance": "64425.91",
+          "transactionTimestamp": "2021-04-07T23:01:18+05:30"
+        },
+        {
+          "mode": "FT",
+          "type": "DEBIT",
+          "txnId": "M59884753",
+          "amount": "5000",
+          "narration": "BIL/BPAY/001962559893/BSE ISIP/BSE000000034260 ",
+          "reference": "RFN02147215",
+          "valueDate": "2021-04-08",
+          "currentBalance": "59425.91",
+          "transactionTimestamp": "2021-04-08T12:22:07+05:30"
+        },
+        {
+          "mode": "OTHERS",
+          "type": "DEBIT",
+          "txnId": "M60543195",
+          "amount": "3062",
+          "narration": "CMS/000634264039/AD_LIC__648652702 ",
+          "reference": "RFN02172027",
+          "valueDate": "2021-04-08",
+          "currentBalance": "56450.47",
+          "transactionTimestamp": "2021-04-08T14:47:18+05:30"
+        },
+        {
+          "mode": "FT",
+          "type": "DEBIT",
+          "txnId": "M60872416",
+          "amount": "974",
+          "narration": "BIL/ONL/001963344975/Easy Trip /wwweasemytripco/Fl",
+          "reference": "RFN02184433",
+          "valueDate": "2021-04-08",
+          "currentBalance": "55476.47",
+          "transactionTimestamp": "2021-04-08T14:57:53+05:30"
+        },
+        {
+          "mode": "FT",
+          "type": "DEBIT",
+          "txnId": "M61201637",
+          "amount": "15408",
+          "narration": "MMT/IMPS/009900364262/Credit Card/HDFC CREDI/HDFC0",
+          "reference": "RFN02196839",
+          "valueDate": "2021-04-08",
+          "currentBalance": "40068.47",
+          "transactionTimestamp": "2021-04-08T19:25:46+05:30"
+        },
+        {
+          "mode": "FT",
+          "type": "CREDIT",
+          "txnId": "M61530858",
+          "amount": "100000",
+          "narration": "SAL FINTECH PRODUCTS and SOLUTIONS MAR 2020",
+          "reference": "RFN02209245",
+          "valueDate": "2021-04-09",
+          "currentBalance": "140068.47",
+          "transactionTimestamp": "2021-04-09T23:09:17+05:30"
+        },
+        {
+          "mode": "FT",
+          "type": "DEBIT",
+          "txnId": "M61860079",
+          "amount": "15000",
+          "narration": "MMT/IMPS/009900356311/Rent/SAILAKSHMI/HDFC0000847 ",
+          "reference": "RFN02221651",
+          "valueDate": "2021-04-09",
+          "currentBalance": "125068.47",
+          "transactionTimestamp": "2021-04-09T23:14:28+05:30"
+        },
+        {
+          "mode": "FT",
+          "type": "DEBIT",
+          "txnId": "M62189300",
+          "amount": "12000",
+          "narration": "MMT/IMPS/009900355713/For car loan EMI/SBIN",
+          "reference": "RFN02234057",
+          "valueDate": "2021-04-09",
+          "currentBalance": "115068.47",
+          "transactionTimestamp": "2021-04-09T23:28:42+05:30"
+        },
+        {
+          "mode": "FT",
+          "type": "DEBIT",
+          "txnId": "M64164626",
+          "amount": "30000",
+          "narration": "ACH/HDFCLTD/251443203 ",
+          "reference": "RFN02308493",
+          "valueDate": "2021-04-25",
+          "currentBalance": "69343.47",
+          "transactionTimestamp": "2021-04-25T17:15:18+05:30"
+        },
+        {
+          "mode": "FT",
+          "type": "DEBIT",
+          "txnId": "M66469173",
+          "amount": "3294",
+          "narration": "BIL/ONL/001973684380/State Bank/SBICARD_SICI874/SB",
+          "reference": "RFN02395335",
+          "valueDate": "2021-05-02",
+          "currentBalance": "64190.97",
+          "transactionTimestamp": "2021-05-02T20:16:54+05:30"
+        },
+        {
+          "mode": "FT",
+          "type": "DEBIT",
+          "txnId": "M67127615",
+          "amount": "2138",
+          "narration": "ACH/TP Kotak Life Ins/1826771816 ",
+          "reference": "RFN02420147",
+          "valueDate": "2021-05-04",
+          "currentBalance": "61962.97",
+          "transactionTimestamp": "2021-05-04T11:22:57+05:30"
+        },
+        {
+          "mode": "FT",
+          "type": "DEBIT",
+          "txnId": "M68444499",
+          "amount": "2024.55",
+          "narration": "ACH/TP ExideLife/INGLife/1827934796 ",
+          "reference": "RFN02469771",
+          "valueDate": "2021-05-06",
+          "currentBalance": "59243.42",
+          "transactionTimestamp": "2021-05-06T15:15:45+05:30"
+        },
+        {
+          "mode": "FT",
+          "type": "CREDIT",
+          "txnId": "M68773720",
+          "amount": "150000",
+          "narration": "SAL FINTECH PRODUCTS and SOLUTIONS APR 2020",
+          "reference": "RFN02482177",
+          "valueDate": "2021-05-07",
+          "currentBalance": "159243.42000000001",
+          "transactionTimestamp": "2021-05-07T12:08:19+05:30"
+        },
+        {
+          "mode": "FT",
+          "type": "DEBIT",
+          "txnId": "M69761383",
+          "amount": "5000",
+          "narration": "BIL/BPAY/001982030055/BSE ISIP/BSE000000034260 ",
+          "reference": "RFN02519395",
+          "valueDate": "2021-05-09",
+          "currentBalance": "147857.42000000001",
+          "transactionTimestamp": "2021-05-09T18:33:56+05:30"
+        },
+        {
+          "mode": "OTHERS",
+          "type": "DEBIT",
+          "txnId": "M70090604",
+          "amount": "3062",
+          "narration": "CMS/000641754365/AD_LIC__648652702 ",
+          "reference": "RFN02531801",
+          "valueDate": "2021-05-09",
+          "currentBalance": "144795.42000000001",
+          "transactionTimestamp": "2021-05-09T19:12:12+05:30"
+        },
+        {
+          "mode": "FT",
+          "type": "DEBIT",
+          "txnId": "M70419825",
+          "amount": "12000",
+          "narration": "MMT/IMPS/012923807671/For Car Loan/SBIN",
+          "reference": "RFN02544207",
+          "valueDate": "2021-05-09",
+          "currentBalance": "135795.42000000001",
+          "transactionTimestamp": "2021-05-09T20:05:12+05:30"
+        },
+        {
+          "mode": "FT",
+          "type": "DEBIT",
+          "txnId": "M71078267",
+          "amount": "4742",
+          "narration": "MMT/IMPS/013019273318/HDFC CC PMT/HDFC CREDI/HDFC0",
+          "reference": "RFN02569019",
+          "valueDate": "2021-05-11",
+          "currentBalance": "115657.42",
+          "transactionTimestamp": "2021-05-11T22:18:15+05:30"
+        },
+        {
+          "mode": "FT",
+          "type": "DEBIT",
+          "txnId": "M71407488",
+          "amount": "15000",
+          "narration": "MMT/IMPS/013019275684/Rent May 2020/SAILAKSHMI/HDF",
+          "reference": "RFN02581425",
+          "valueDate": "2021-05-15",
+          "currentBalance": "100657.42",
+          "transactionTimestamp": "2021-05-15T21:20:37+05:30"
+        },
+        {
+          "mode": "FT",
+          "type": "DEBIT",
+          "txnId": "M72065930",
+          "amount": "30000",
+          "narration": "ACH/HDFCLTD/253928436 ",
+          "reference": "RFN02606237",
+          "valueDate": "2021-05-19",
+          "currentBalance": "70600.42",
+          "transactionTimestamp": "2021-05-19T19:25:32+05:30"
+        },
+        {
+          "mode": "OTHERS",
+          "type": "DEBIT",
+          "txnId": "M73712035",
+          "amount": "12",
+          "narration": "PMSBY RENEWAL PREMIUM FY 21 ",
+          "reference": "RFN02668267",
+          "valueDate": "2021-05-24",
+          "currentBalance": "68415.42",
+          "transactionTimestamp": "2021-05-24T11:13:26+05:30"
+        },
+        {
+          "mode": "FT",
+          "type": "DEBIT",
+          "txnId": "M74041256",
+          "amount": "4058",
+          "narration": "BIL/001992356805/ICICI BANK CREDIT CA/431581009199",
+          "reference": "RFN02680673",
+          "valueDate": "2021-05-25",
+          "currentBalance": "64357.42",
+          "transactionTimestamp": "2021-05-25T14:17:37+05:30"
+        },
+        {
+          "mode": "FT",
+          "type": "DEBIT",
+          "txnId": "M75358140",
+          "amount": "2138",
+          "narration": "ACH/TP Kotak Life Ins/1832189136 ",
+          "reference": "RFN02730297",
+          "valueDate": "2021-06-03",
+          "currentBalance": "61125.42",
+          "transactionTimestamp": "2021-06-03T17:17:18+05:30"
+        },
+        {
+          "mode": "FT",
+          "type": "DEBIT",
+          "txnId": "M76675024",
+          "amount": "2024.55",
+          "narration": "ACH/TP ExideLife/INGLife/1834310500 ",
+          "reference": "RFN02779921",
+          "valueDate": "2021-06-04",
+          "currentBalance": "50851.87",
+          "transactionTimestamp": "2021-06-04T13:26:11+05:30"
+        },
+        {
+          "mode": "FT",
+          "type": "CREDIT",
+          "txnId": "M77333466",
+          "amount": "100000",
+          "narration": "SAL FINTECH PRODUCTS and SOLUTIONS MAY 2020",
+          "reference": "RFN02804733",
+          "valueDate": "2021-06-08",
+          "currentBalance": "141851.87",
+          "transactionTimestamp": "2021-06-08T18:35:14+05:30"
+        },
+        {
+          "mode": "FT",
+          "type": "DEBIT",
+          "txnId": "M77991908",
+          "amount": "3000",
+          "narration": "BIL/BPAY/002001526478/BSE ISIP/BSE000000034260 ",
+          "reference": "RFN02829545",
+          "valueDate": "2021-06-11",
+          "currentBalance": "133851.87",
+          "transactionTimestamp": "2021-06-11T07:58:36+05:30"
+        },
+        {
+          "mode": "OTHERS",
+          "type": "DEBIT",
+          "txnId": "M78321129",
+          "amount": "3062",
+          "narration": "CMS/000651994446/AD_LIC__648652702 ",
+          "reference": "RFN02841951",
+          "valueDate": "2021-06-11",
+          "currentBalance": "130789.87",
+          "transactionTimestamp": "2021-06-11T08:09:17+05:30"
+        },
+        {
+          "mode": "FT",
+          "type": "DEBIT",
+          "txnId": "M78650350",
+          "amount": "30000",
+          "narration": "ACH/HDFCLTD/256070866 ",
+          "reference": "RFN02854357",
+          "valueDate": "2021-06-11",
+          "currentBalance": "100789.87",
+          "transactionTimestamp": "2021-06-11T09:11:45+05:30"
+        },
+        {
+          "mode": "FT",
+          "type": "CREDIT",
+          "txnId": "M78979571",
+          "amount": "16037.22",
+          "narration": "NEFT-SBIN120163800892-PRINCIPAL MUTUAL FUND-/ATTN//INB-00000035543580539-SBIN00",
+          "reference": "RFN02866763",
+          "valueDate": "2021-06-13",
+          "currentBalance": "116827.09",
+          "transactionTimestamp": "2021-06-13T08:15:48+05:30"
+        },
+        {
+          "mode": "FT",
+          "type": "CREDIT",
+          "txnId": "M79308792",
+          "amount": "15691.88",
+          "narration": "NEFT-CITIN20080903889-MOTILAL OSWAL MLTICP 35FUND RED AC-AKSHAY KUMAR05900",
+          "reference": "RFN02879169",
+          "valueDate": "2021-06-16",
+          "currentBalance": "132518.97",
+          "transactionTimestamp": "2021-06-16T03:54:00+05:30"
+        }
+      ]
+    },
+    "profile": {
+      "holders": {
+        "type": "Single",
+        "holder": [
+          {
+            "dob": "24-07-1970",
+            "pan": "AAAPL1234C",
+            "name": "Ramkrishna Sapan",
+            "email": "ram.sapan@gmail.com",
+            "mobile": "91729391923",
+            "address": "4/1290, 785th Cross, 13rd Main, 7th Block, Bangalore - 569911",
+            "nominee": "REGISTERED",
+            "landline": "",
+            "ckycCompliance": "true"
+          }
+        ]
+      }
+    },
+    "summary": {
+      "type": "SAVINGS",
+      "branch": "Jayanagar 7th Block",
+      "status": "ACTIVE",
+      "pending": {
+        "amount": "0",
+        "transactionType": "DEBIT"
+      },
+      "currency": "INR",
+      "facility": "OD",
+      "ifscCode": "APNB0001154",
+      "micrCode": "500245646",
+      "exchgeRate": "",
+      "openingDate": "06-08-1999",
+      "drawingLimit": "0",
+      "currentBalance": "101666.33",
+      "currentODLimit": "0",
+      "balanceDateTime": "2021-06-22T13:20:00+05:30"
+    }
+  }
+}
