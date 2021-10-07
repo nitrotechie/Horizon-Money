@@ -2,7 +2,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 
 class HelperFunctions {
   static String sharedPreferenceUserLoggedInKey = "ISLOGGEDIN";
-  static String sharedPreferenceUserNameKey = "USERNAMEKEY";
+  static String sharedPreferenceUserPhoneKey = "USERPHONEKEY";
   static String sharedPreferenceUserEmailKey = "USEREMAILKEY";
 
   /// saving data to sharedpreference
@@ -17,6 +17,10 @@ class HelperFunctions {
     SharedPreferences preferences = await SharedPreferences.getInstance();
     return await preferences.setString(sharedPreferenceUserEmailKey, userEmail);
   }
+  static Future<bool> saveUserPhoneSharedPreference(String userPhone) async {
+    SharedPreferences preferences = await SharedPreferences.getInstance();
+    return await preferences.setString(sharedPreferenceUserPhoneKey, userPhone);
+  }
 
   /// fetching data from sharedpreference
   static Future<bool?> getUserLoggedInSharedPreference() async {
@@ -27,5 +31,9 @@ class HelperFunctions {
   static Future<String?> getUserEmailSharedPreference() async {
     SharedPreferences preferences = await SharedPreferences.getInstance();
     return preferences.getString(sharedPreferenceUserEmailKey);
+  }
+  static Future<String?> getUserPhoneSharedPreference() async {
+    SharedPreferences preferences = await SharedPreferences.getInstance();
+    return preferences.getString(sharedPreferenceUserPhoneKey);
   }
 }

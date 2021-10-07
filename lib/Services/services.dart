@@ -264,7 +264,7 @@ class Services {
       uriPrefix: 'https://horizonmoney.page.link',
       link: Uri.parse('https://horizonmoney.page.link/login'),
       androidParameters: AndroidParameters(
-        packageName: 'com.example.android',
+        packageName: 'com.horizon.money',
         minimumVersion: 0,
       ),
     );

@@ -6,6 +6,7 @@ import 'package:horizon_money_app/Screens/register_screen.dart';
 import 'package:horizon_money_app/Services/pie_data.dart';
 import 'package:horizon_money_app/Services/services.dart';
 import 'package:horizon_money_app/Utils/colors.dart';
+import 'package:horizon_money_app/Utils/helper_function.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class SplashScreen extends StatefulWidget {
@@ -47,6 +48,7 @@ class _SplashScreenState extends State<SplashScreen> {
       prefs.setBool('seen', true);
       Navigator.of(context).pushReplacement(
           MaterialPageRoute(builder: (context) => const RegisterScreen()));
+      HelperFunctions.saveUserLoggedInSharedPreference(false);
     }
   }
 
